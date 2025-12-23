@@ -20,4 +20,23 @@ This repository focuses on **clarity over complexity**, making it ideal for lear
 ---
 
 ## 🧠 Architecture Overview
+      Client (client.ts)
+      |
+      | stdio messages
+      v
+      Server (server.ts)
+      |
+      | Reads local data
+      v
+      users.json
+  
+- **Client** sends structured requests
+- **Server** processes requests and responds via stdio
+- **users.json** acts as a mock data source
+- **mcp.json** defines how the MCP server is launched and integrated
+
+---
+
+## 📁 Project Structure
+
 
