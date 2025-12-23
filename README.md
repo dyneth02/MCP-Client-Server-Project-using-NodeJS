@@ -1,2 +1,23 @@
-# MCP-Client-Server-Project-using-NodeJS
-A minimal Model Context Protocol (MCP) implementation built with Node.js and TypeScript. This project demonstrates client–server communication over stdio, structured message handling, and local data access, developed with VS Code and GitHub Copilot to explore modern AI tool integration workflows.
+# Simple MCP with Node.js & TypeScript
+
+This project is a minimal, educational implementation of a **Model Context Protocol (MCP)**–style system using **Node.js** and **TypeScript**. It demonstrates how a client and server can communicate over standard input/output (stdio) using structured messages, simulating how modern AI tools interact with external context providers.
+
+The project was built using **VS Code** with **GitHub Copilot**, exploring how AI-assisted development integrates with protocol-based system design.
+
+---
+
+## 🚀 What This Project Demonstrates
+
+- A lightweight MCP-style **client–server architecture**
+- Communication over **stdio** instead of HTTP
+- Structured request/response handling
+- Type-safe development with TypeScript
+- Local JSON-based data access
+- Practical experimentation with AI tooling workflows
+
+This repository focuses on **clarity over complexity**, making it ideal for learning, experimentation, and extension.
+
+---
+
+## 🧠 Architecture Overview
+
