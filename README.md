@@ -48,3 +48,23 @@ This repository focuses on **clarity over complexity**, making it ideal for lear
       └── README.md
 
 
+---
+
+## ⚙️ How It Works
+
+1. The MCP server is launched using Node.js (configured in `mcp.json`)
+2. The client communicates with the server via stdio
+3. Requests are parsed and handled in a structured manner
+4. The server reads from `users.json` and returns results
+5. Responses are sent back to the client in a predictable format
+
+This mirrors how AI tools query external systems for context without relying on traditional REST APIs.
+
+---
+
+## ▶️ Running the Project
+
+### Install dependencies
+```bash
+npm install
+
