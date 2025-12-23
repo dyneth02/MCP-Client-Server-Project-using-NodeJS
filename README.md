@@ -66,11 +66,11 @@ This mirrors how AI tools query external systems for context without relying on 
 
 ### Install dependencies
 ```bash
-      npm install
-      npm run build
-      node build/server.js
+npm install
+npm run build
+node build/server.js
 (Client execution depends on your MCP setup or test harness.)
-
+```
 ---
 
 🧪 Why This Matters
