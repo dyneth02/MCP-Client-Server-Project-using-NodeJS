@@ -83,3 +83,10 @@ Modern AI systems increasingly rely on protocol-driven context sharing rather th
 - Developer tooling workflows
 
 ---
+
+📌 Notes
+
+- This is a learning and exploration project
+- Designed to be easily extended (databases, auth, tools, schemas)
+- Emphasizes readability and correctness over feature depth
+
