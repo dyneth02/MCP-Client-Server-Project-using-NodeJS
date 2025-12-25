@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@test.com",
+    "address": "123 Maple St, Springfield, IL",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@test.com",
+    "address": "456 Oak St, Springfield, IL",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@test.com",
+    "address": "123 Main St, Omaha, NE",
+    "phone": "555-8765"
+  },
+  {
+    "id": 4,
+    "name": "Kyle",
+    "email": "test@test.com",
+    "address": "sdfsdfsdfsdf",
+    "phone": "34545634534"
+  },
+  {
+    "id": 5,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main Street, Anytown, ST 12345",
+    "phone": "+1-555-123-4567"
+  },
+  {
+    "id": 6,
+    "name": "Kyle",
+    "email": "test@test.com",
+    "address": "1234 Main st",
+    "phone": "234345345"
+  },
+  {
+    "id": 7,
+    "name": "Jessica M. Turner",
+    "email": "jessica.turner84@gmail.com",
+    "address": "4821 Willowbrook Lane, Apt 3B, Columbus, OH 43220",
+    "phone": "(614) 555-2378"
+  },
+  {
+    "id": 8,
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez82@gmail.com",
+    "address": "1842 Willowbrook Lane, Austin, TX 78741",
+    "phone": "(512) 555-3472"
+  },
+  {
+    "id": 9,
+    "name": "Kyle",
+    "email": "test@test.com",
+    "address": "567567",
+    "phone": "asfasdfasdfdsa"
+  },
+  {
+    "id": 10,
+    "name": "Kyle",
+    "email": "test@test.com",
+    "address": "345345",
+    "phone": "345345345"
+  },
+  {
+    "id": 11,
+    "firstName": "Eleanor",
+    "lastName": "Vance",
+    "email": "eleanor.vance78@example.com",
+    "address": {
+      "street": "481 Oak Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "91234"
+    },
+    "phoneNumber": "555-234-5678"
+  }
+]
